@@ -1,0 +1,6 @@
+there are two computers gussing numbers print each computers guess and number of gusses the games stops when computers guess the same number.
+For example:
+Starting game !
+001: Computer 1: 99        Computer 2: 29
+002: Computer 1: 10        Computer 2: 10
+
