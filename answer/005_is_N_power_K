@@ -1,0 +1,2 @@
+first check if N can be divided by K,
+then check if k to the power of log(n, k) is same as n
