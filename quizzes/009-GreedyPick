@@ -1,0 +1,9 @@
+You want to give out change to a costumer, using the following:
+{
+'20 dollor bill': 20.00,
+'10 dolor bill': 10.00,
+'5 dollor bill': 5.00,
+'1 dollor bill': 1.00,
+'1 cent coin': 0.01,
+}
+use greedy method to pick and give the change
